@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# reto_colegio_geek
+Proyecto realizado con React.js para el Front End (Hooks, Formik u otro), Node.js para el Back End (Express.js, Joi ó Express validator u otro), PostgreSQL y autenticaciones con JWT/Passport.js u otro.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# reto_colegio_geek
-Proyecto realizado con React.js para el Front End (Hooks, Formik u otro), Node.js para el Back End (Express.js, Joi ó Express validator u otro), PostgreSQL y autenticaciones con JWT/Passport.js u otro.
->>>>>>> 9db4f6633f9764f3c91a30daea510ac178d01558
